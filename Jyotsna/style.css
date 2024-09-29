@@ -79,5 +79,13 @@ input, button{
     align-items:inherit;
     justify-content: space-evenly;
     row-gap: none;
+}
 
+.checkbox{
+    width: 2rem;
+    height: 1.5rem;    
+}
+#parabox{
+    font-size: 1.5;
+    text-align: right;
 }
